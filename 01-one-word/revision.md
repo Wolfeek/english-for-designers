@@ -9,19 +9,11 @@
 
 ### Hook
 
-<mark>I feel like an idiot while doing my job. A lot.</mark>
+<mark>When I receive reactions to the word <ins>“ADHD”</ins>, I feel as a liar, a fake, and a fool all at once.</mark>
 
-Now there’s a damn good chance I’m actually an idiot, but the self-respecting part of me wants to challenge that notion.
-
-When I get stuck on a task or am looking for recommendations for <del>tools/resources/strategies/solutions/whatever</del> <ins>tools, resources, solutions, or whatever</ins>, I often take to Twitter to ask for help.
-
-Seconds after posting my quandary, my stream gets flooded with a host of advice, links, insights, and opinions. This “crowd-sourcing my knowledgesphere” is a wonderful thing. But one word in all those proffered solutions tends to stick out in my mind like a jagged, rusty nail ready to figuratively jam itself into my eye socket.
+<del>Whenever I mention <ins>‘ADHD’</ins> to who knows nothing about, their reactions are quite dismissive and ignorant, filled with misconceptions and stereotypes.</del> <ins>tools, resources, solutions, or whatever</ins>, I often take to Twitter to ask for help.
 
 **“Just…”**
-
-As in “**Just** update your ruby gems, generate a new SSH key, and run a git rebase…“
-
-“**Just** clone the dev branch, add those three grunt tasks, and recompile…”
 
 “**Just** use this <del>software/platform/toolkit/methodology</del> <ins>software, platform, toolkit, method</ins>…”
 
