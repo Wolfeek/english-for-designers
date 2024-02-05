@@ -27,7 +27,7 @@ Imagine yourself explaining a particular task to an earlier version of yourself.
 
 ### Conclusion
 
-I don’t envy those just entering the field of web development. <del>In addition to</del> <ins>Besides</ins> learning the <del>fundamentals</del> <ins>basics</ins>, there’s an expectation to be proficient in an <del>increasingly exhausting</del> <ins>endless</ins> laundry list of buzzwords and technologies. I’m seven years into my career and still feel like I’m still on Chapter 1 of the Big Book of Web Design.
+At present, however, I know that I won’t let people and their opinions on these topics bring me down. They can think whatever they want. It won’t hurt me anymore. Even though I fight my demons every day and nobody sees how difficult life with **“<ins>ADHD</ins>”** is. I have finally reached a point where I am starting to love myself as I am. Nevertheless, please consider your reactions to health or neurologic problems when you don’t understand them. It could have consequences.
 
 ### Takeaway
 
