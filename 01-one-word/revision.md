@@ -9,17 +9,13 @@
 
 ### Hook
 
-<mark>When I receive reactions to the word <ins>“ADHD”</ins>, I feel as a liar, a fake, and a fool all at once.</mark>
+<mark>When I receive reactions to the word **“<ins>ADHD</ins>”**, I feel as a liar, a fake, and a fool all at once.</mark>
 
-<del>Whenever I mention <ins>‘ADHD’</ins> to who knows nothing about, their reactions are quite dismissive and ignorant, filled with misconceptions and stereotypes.</del> <ins>tools, resources, solutions, or whatever</ins>, I often take to Twitter to ask for help.
-
-**“Just…”**
-
-“**Just** use this <del>software/platform/toolkit/methodology</del> <ins>software, platform, toolkit, method</ins>…”
+<del>Whenever I mention **‘<ins>ADHD</ins>’** to who knows nothing about, their reactions are quite dismissive and ignorant, filled with misconceptions and stereotypes.</del>
 
 ### Thesis Statement
 
-“Just” makes me feel like an idiot. “Just” presumes I come from a specific background<del>,</del><ins>and</ins> studied certain courses in university<del>, am fluent</del><ins>. And fluent</ins> in certain technologies<del>, and</del><ins>. And</ins> have read all the right books, articles, and resources. “Just” is a dangerous word.
+The unjustified reactions and misunderstandings surrounding ADHD create an atmosphere of stigma, making individuals with ADHD feel like they have to defend themselves and battle against misconceptions.
 
 ### The Whys
 
