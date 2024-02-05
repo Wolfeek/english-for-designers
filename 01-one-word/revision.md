@@ -15,7 +15,7 @@
 
 ### Thesis Statement
 
-The unjustified reactions and misunderstandings surrounding ADHD create an atmosphere of stigma, making individuals with ADHD feel like they have to defend themselves and battle against misconceptions.
+The unjustified reactions and misunderstandings surrounding **“<ins>ADHD</ins>”** create an atmosphere of stigma, making individuals with ADHD feel like they have to defend themselves and battle against misconceptions.
 
 ### The Whys
 
@@ -31,4 +31,6 @@ I don’t envy those just entering the field of web development. <del>In additio
 
 ### Takeaway
 
-So think twice before suggesting someone “just” [insert any task here]. You just might make them feel like an idiot.
+A takeaway is the importance of empathy and understanding when discussing or reacting to health or neurological conditions. It is crucial for people to refrain from making assumptions, judgments, or dismissive comments without proper knowledge or understanding. The emotions and experiences shared in my texts highlight the potential harm that can come from negative reactions and the need for support and acceptance of our limitations.
+
+**"Nevertheless, please consider your reactions to health or neurologic problems when you don’t understand them. It could have consequences."**
