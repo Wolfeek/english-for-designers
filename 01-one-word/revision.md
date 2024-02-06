@@ -19,11 +19,17 @@ The unjustified reactions and misunderstandings surrounding **“<ins>ADHD</ins>
 
 ### The Whys
 
-We approach problems equipped with our own set of experiences, perspective, and skills. It’s <del>extremely challenging</del> <ins>a struggle</ins> to step outside of our own perspective when communicating with others, but it’s <del>increasingly</del> essential to do so.
+**Different types of <ins>“ADHD”</ins>:**
 
-The amount of available knowledge in our field (or any field <del>really</del>) is growing larger, more complex, and more segmented all the time. That everyone has downloaded the same fundamental knowledge on any topic is becoming less and less probable. Because of this, we have to be careful not to make too many assumptions in our documentation, blog posts, tutorials, <del>wikis,</del> and communications.
+Even we, people with **“<ins>ADHD</ins>”** (or <ins>ADD</ins>), don’t judge someone with the same diagnosis solely based on our own experiences. Just because something doesn’t trouble us, doesn’t mean it doesn’t trouble someone else with the same diagnosis. There isn’t just one type of **“<ins>ADHD</ins>”**. Each of us has a unique range or combination of symptoms, and as a result, a unique level of difficulty in life. Someone may have a mild form, while someone else may have a severe form. I know someone who ended up in a mental institution due to a lack of diagnosis, and without strong medication for their **“<ins>ADHD</ins>”**, they would still be there today.
 
-Imagine yourself explaining a particular task to an earlier version of yourself. Once upon a time, you didn’t know what you know now. Provide context. The beauty of [hypertext](https://en.wikipedia.org/wiki/Hypertext) is that we’re able to <del>quickly</del> add much-needed context<ins>, fast. It’s</ins> helpful for <del>n00bs</del> <ins>newbies</ins> but easy enough for those already in-the-know to scan over. And making documentation more human-readable benefits everyone.
+**People and their opinions / reactions on <ins>“ADHD”</ins>:** 
+
+Whenever I mention **“<ins>ADHD</ins>”** to someone who knows nothing about it (which is most people who are not affected by it, but sadly even some family members of people with <ins>ADHD</ins>), their reactions are quite similar: **“Again - the three letters.”** (which I don’t understand, there are actually four letters). **“It’s just a trend now. Everyone seems to have it.”** **“Such a thing does not exist. Only children have it. You'd grow out of it. You can’t have it if you are a girl or a woman”** (We even hear these mystifications from certain not very educated psychiatrists during our attempts at diagnosis.)
+
+**Empathy to humans with health or neurological problems:** 
+
+People should consider their reactions to healthy or neurologic problems when they don’t understand them. It could have consequences… I worry that such words spoken by others could lead to harmful decisions for someone else.
 
 ### Conclusion
 
