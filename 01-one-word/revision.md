@@ -7,6 +7,18 @@
 
 # ADHD
 
+<mark>### 5 supportive “Whys”:
+
+What’s your hook?
+
+What’s your thesis statement?
+
+What are your whys and supporting points?
+
+What’s your conclusion?
+
+[What’s your takeway?]<mark>
+
 ### Hook
 
 <mark>When I receive reactions to the word **“<ins>ADHD</ins>”**, I feel as a liar, a fake, and a fool all at once.</mark>
