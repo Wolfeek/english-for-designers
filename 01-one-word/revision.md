@@ -7,17 +7,7 @@
 
 # ADHD
 
-<mark>### 5 supportive “Whys”:
 
-What’s your hook?
-
-What’s your thesis statement?
-
-What are your whys and supporting points?
-
-What’s your conclusion?
-
-[What’s your takeway?]<mark>
 
 ### Hook
 
