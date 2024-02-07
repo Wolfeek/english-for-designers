@@ -15,7 +15,9 @@
 
 ![Write an alternative text description.](img/surname-headshot.jpg)
 
-A short description about yourself. Think — alt text description length, a max of 125 characters, short and sweet. If you go over, that’s okay — edits are free.
+Hi there! I’m Martina. A graphic designer and illustrator. I love book and book cover design too. I think, that design should be simple and clear + that the most important thing is work with interesting colors and typography.
+
+I studied at Business Academy during my school years. After that, I pursued my education in Graphic Design at the Higher Vocational Scholastica.My journey led to the College of Creative Communication, where I further expanded skills and knowledge. My work has changed a lot throughout my journey. Every school has influenced me in some way. Just like the others. That's why we are each unique. We all have a different path. I believe that unique experiences shape us. Everyone has their own journey. Despite studying of Graphic Design I find myself drawn towards hands-on work such drawing, painting,, paper-cut illustration, basic graphic techniques, lithography and even gilding.
 
 ## Featured Projects
 
