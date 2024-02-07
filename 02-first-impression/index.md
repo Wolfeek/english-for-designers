@@ -13,7 +13,6 @@
 
 <!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
 
-![Write an alternative text description.](img/ADHD.jpg)
 ![Write an alternative text description.](img/Me.png)
 
 Hi there! I’m Martina. A graphic designer and illustrator. I love book and book cover design too. I think, that design should be simple and clear + that the most important thing is work with interesting colors and typography.
