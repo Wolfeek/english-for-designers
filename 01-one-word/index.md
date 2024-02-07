@@ -6,13 +6,17 @@ by Martina Volfová
 
 - - -
 
-I feel like an idiot while doing my job. A lot.
+When I receive reactions to the word **“ADHD”**, I feel like a liar, a fake, and a fool all at once. I experience the same emotions when people react to me waiting for an Asperger’s diagnosis.
 
-Now there’s a damn good chance I’m actually an idiot, but the self-respecting part of me wants to challenge that notion.
+I don’t understand those people. Where do they get the confidence to comment on an issue they know nothing about? Even we, people with **“ADHD”** (or ADD, don’t judge someone with the same diagnosis based on our own experiences. Just because something doesn’t bother us, it doesn’t mean it doesn’t bother someone else who has the same diagnosis. We should remember: different people with the same condition may have different problems. There isn’t the only one type of **“ADHD”**. The same applies to other diagnoses, such as Asperger’s syndrome. Each of us has a unique range or combination of symptoms, and as a result, a unique level of difficulty in life. Someone may have a mild form, while someone else may have a severe form. I know someone who ended up in a mental institution due to a lack of diagnosis. Without strong medication for their ADHD, they would still be there today. When I mention **“ADHD”** to someone, who knows nothing about it, their reactions are often the same. “Here we go again - the three letters.” (which I don’t understand, there are actually four letters). “It’s only a trend at the moment. Everyone seems to have it.” “Such a thing does not exist. Only children have it. You'd grow out of it. Some people say you, that you can’t have **ADHD** if you’re girl or a woman. We also hear these incorrect beliefs from psychiatrists when we seek a diagnosis. These psychiatrists have limited education.
 
-When I get stuck on a task or am looking for recommendations for tools, resources, solutions, or whatever, I often take to Twitter to ask for help.
+Every time I hear these reactions, I sense a surge of anger inside. I ask myself “What kind of generation are we, uttering things we have no right to comment on when we know nothing about the subject?
 
-Seconds after posting my quandary, my stream gets flooded with a host of advice, links, insights, and opinions. This “crowd-sourcing my knowledgesphere” is a wonderful thing. But one word in all those proffered solutions tends to stick out in my mind like a jagged, rusty nail ready to figuratively jam itself into my eye socket.
+These reactions makes me feel like the pretender and the troublemaker.
+
+A while ago, I stopped wanting to be like everyone else. It is beyond my capabilities. I wanted to be like others, so I took medication for **“ADHD.”** As a result, I ended up being on antidepressants for 7 years. Yes, those pills were supposed to help and ease my daily life, but I am worse off than before. If it weren’t for societal expectations, I would have never tried this medication. I perceive like others pushed me into it, and it feels like I ruined my life because of it. As a result of after depression, I also lost most of my friends. That’s why it destroys me when I hear these or worse reactions about **“ADHD”** instead of support. I worry that such words spoken by others could lead to harmful decisions for someone else.
+
+At present, but, I know that I won’t let people and their opinions on these topics bring me down. They can think whatever they want. It won’t hurt me anymore. Even though I fight my demons every day and nobody sees how difficult life with **“ADHD”** is. I have finally reached a point where I am starting to love myself as I am. Try to understand health or neurological problems. Be compassionate towards those you don’t understand. Keep an open mind about these issues. It could have consequences.
 
 **“Just…”**
 
