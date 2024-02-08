@@ -18,28 +18,10 @@ A while ago, I stopped wanting to be like everyone else. It is beyond my capabil
 
 At present, but, I know that I won’t let people and their opinions on these topics bring me down. They can think whatever they want. It won’t hurt me anymore. Even though I fight my demons every day and nobody sees how difficult life with **“ADHD”** is. I have finally reached a point where I am starting to love myself as I am. Try to understand health or neurological problems. Be compassionate towards those you don’t understand. Keep an open mind about these issues. It could have consequences.
 
-**“Just…”**
+(img/ADHD.jpg) (AI IMAGE, what I created)
 
-As in “**Just** update your ruby gems, generate a new SSH key, and run a git rebase…“
-
-“**Just** clone the dev branch, add those three grunt tasks, and recompile…”
-
-“**Just** use this software, platform, toolkit, method…”
-
-“Just” makes me feel like an idiot. “Just” presumes I come from a specific background and studied certain courses in university. And fluent in certain technologies. And have read all the right books, articles, and resources. “Just” is a dangerous word.
-
-We approach problems equipped with our own set of experiences, perspective, and skills. It’s a struggle to step outside of our own perspective when communicating with others, but it’s essential to do so.
-
-The amount of available knowledge in our field (or any field) is growing larger, more complex, and more segmented all the time. That everyone has downloaded the same fundamental knowledge on any topic is becoming less and less probable. Because of this, we have to be careful not to make too many assumptions in our documentation, blog posts, tutorials, and communications.
-
-Imagine yourself explaining a particular task to an earlier version of yourself. Once upon a time, you didn’t know what you know now. Provide context. The beauty of [hypertext](https://en.wikipedia.org/wiki/Hypertext) is that we’re able to add much-needed context, fast. It’s helpful for newbies but easy enough for those already in-the-know to scan over. And making documentation more human-readable benefits everyone.
-
-I don’t envy those just entering the field of web development. Besides learning the basics, there’s an expectation to be proficient in an endless laundry list of buzzwords and technologies. I’m seven years into my career and still feel like I’m still on Chapter 1 of the Big Book of Web Design.
-
-So think twice before suggesting someone “just” [insert any task here]. You just might make them feel like an idiot.
-
-(image/ADD)(image/ADHD)
-AI IMAGE, what I created.
+(img/ADD.jpg)
+(AI IMAGE, what I created)
 
 ## Process
 
