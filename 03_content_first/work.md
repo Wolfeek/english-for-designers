@@ -20,13 +20,8 @@ I chose these projects because they best describe what I want to be as a graphic
 ![Write an alternative text description.](img/Liben_welcome_webside.png)
 ![Write an alternative text description.](img/Liben_web_1.png)
 ![Write an alternative text description.](img/Liben_web_2.png)
-![Write an alternative text description.](img/Liben_web_3.png)
 
 ![Write an alternative text description.](img/Liben_2.png)
-![Write an alternative text description.](img/Liben_FB.png)
-
-![Write an alternative text description.](img/Liben_t-hirts.png)
-![Write an alternative text description.](img/Liben_bookmark.png)
 
 - I created this project as my final assignment at the Higher Professional School of Visual Communication - **Scholastica**. It involved creating a visual identity, which included designing a logo along with a logo manual, design of merchandise products, SoMe and a website. Thanks to this project, I earned the title **“Dis.”**
 
