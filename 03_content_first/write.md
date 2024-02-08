@@ -1,4 +1,6 @@
-
+- [Home](#home)
+- [About me](#more_about_me)
+- [My work](#work)
 
 
 ## Some Writing I’ve done”
