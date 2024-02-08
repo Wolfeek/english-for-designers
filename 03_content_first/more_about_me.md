@@ -7,7 +7,7 @@
 - [About me](#more_about_me)
 - [My work](#work)
 
-## About
+## About me
 
 <!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
 
