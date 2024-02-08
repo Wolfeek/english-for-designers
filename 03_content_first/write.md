@@ -30,7 +30,7 @@ At present, but, I know that I won’t let people and their opinions on these to
 
 
 
-![AI IMAGE, what I created](img/ADHD.jpg)
+![AI IMAGE, what I created](img/ADHD_1.png)
 
 
 ![AI IMAGE, what I created](img/ADD.jpg)
