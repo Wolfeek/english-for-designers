@@ -8,11 +8,9 @@
 - [About me](#more_about_me)
 - [My work](#work)
 
-## Contents
-
-1. [Home](home/)
-2. [About me](02-first-impression/)
-3. [My work](03_content_first/work/)
+<!1. [Home](home/)-->
+<!2. [About me](02-first-impression/)-->
+<!3. [My work](03_content_first/work/)-->
 
 
 ## Welcome — I’m Martina Volfová
