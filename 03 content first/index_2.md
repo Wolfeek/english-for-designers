@@ -5,7 +5,7 @@
 <!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->
 
 - [Home](#home)
-- [About me](#more about me)
+- [About me](#more_about_me)
 - [My work](#work)
 
 ## Welcome — I’m Martina Volfová
