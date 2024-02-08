@@ -4,7 +4,7 @@
 <!-- Presentations do not need to be a PDF, you may link elsewhere, such as Figma, YouTube, etc. -->
 <!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->
 
-- [View Presentation](img/portfolio_Volfova_2023_en.pdf) [behance](https://www.behance.net/volfmartinff54)(PDF) <!-- Add helpful hint as to what kind of file or destination is here. -->
+- [View Presentation](img/portfolio_Volfova_2023_en.pdf) [behance](link/https://www.behance.net/volfmartinff54)(PDF) <!-- Add helpful hint as to what kind of file or destination is here. -->
 - [About](#about)
 - [Featured Projects](#featured-projects)
 - [Notes](#notes)
