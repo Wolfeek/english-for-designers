@@ -2,9 +2,10 @@
 <!-- Presentations do not need to be a PDF, you may link elsewhere, such as Figma, YouTube, etc. -->
 <!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->
 
-- [Home](#home)
-- [About me](#more_about_me)
-- [My work](#work)
+1. [Home](home.md)
+2. [About me](more_about_me.md)
+3. [My work](work.md)
+4. [Writing](write.md)
 
 
 # My work
