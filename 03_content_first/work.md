@@ -62,11 +62,13 @@ I chose these projects because they best describe what I want to be as a graphic
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
-![Write an alternative text description.](img/featured-project-01.png)
+![Write an alternative text description.](img/Sys_biohacking.png)
+![Write an alternative text description.](img/Sys_Kaapa.png)
+![Write an alternative text description.](img/Sys_program.png)
+![Write an alternative text description.](img/Sys_posters.png)
+![Write an alternative text description.](img/Sys_chocolate.png)
 
 - I did this projects at internship - at **Systers bio**. This internship was about doing the printing part of their design. One of my co-worker do SoMe design (I am glad for this becouse I dislike creating SoMe and web banners.
-
-- I created symbol from "J" as paddle with wave. The most important part - *the last name* - I placed behind the symbol. I did this because in the case of sports people is more important the last name than the full name.
 
 - The main part of this brand is combination blue and beige (sometimes pink), using square brackets, archway, bigger dot (between title and text) and splash or pouring art at backgrounds.
 
