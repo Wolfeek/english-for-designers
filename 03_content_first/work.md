@@ -46,8 +46,7 @@ I chose these projects because they best describe what I want to be as a graphic
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
-![Write an alternative text description.](img/jv_prezentation_0.png)
-![Write an alternative text description.](img/jv_prezentation.png)
+![Write an alternative text description.](img/jv.png)
 
 - I did this project at internship - at **DURT DESIGN**. It was about creating logo for czech slalomer **Jiří Vašina**.
 
@@ -55,7 +54,11 @@ I chose these projects because they best describe what I want to be as a graphic
 
 - This collaboration also led to the design of the website, which was finalized by a web designer. Later on, I also created a presentation for **Jiří Vašina** (and for **Tereza Neumannová** - professional cyclist) to showcase to their sponsors.
 
-### Featured Project 4 FLYERS AND OTHER PRINTED DESIGN
+![Write an alternative text description.](img/jv_prezentation_0.png)
+![Write an alternative text description.](img/jv_prezentation.png)
+
+
+### Featured Project 4 SYSTERS - FLYERS AND OTHER PRINTED DESIGN
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
