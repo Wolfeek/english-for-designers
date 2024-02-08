@@ -40,7 +40,7 @@ I chose these projects because they best describe what I want to be as a graphic
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
-![Write an alternative text description.](img/featured-project-01.png)
+![Write an alternative text description.](img/jv_prezentation_0.png)
 
 - I did this project at internship - at **DURT DESIGN**. It was about creating logo for czech slalomer **Jiří Vašina**.
 
