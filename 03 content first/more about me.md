@@ -1,14 +1,20 @@
-- [Rough Draft](rough-draft.md) (word dump, sketch)
-- [First Draft](first-draft.md) (make sense, cleanup)
-- [Revision](revision.md) (review, process)
-- [Edit](index.md) (final-ish)
+- [View (PDF)  <!-- Add helpful hint as to what kind of file or destination is here. --> Presentation](img/portfolio_Volfova_2023_en.pdf) / [behance](link/https://www.behance.net/volfmartinff54)
+- [About](#about)
+- [Featured Projects](#featured-projects)
+- [Notes](#notes)
 
-## Rough Draft
+## About
 
-# Just
+<!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
 
-I ask for Twitter help when stuck. "Just" makes me feel stupid. Crowdsourcing is great, but that word hurts.
+![Write an alternative text description.](img/ME.png)
 
-We must step out of our perspective. Imagine explaining to a past self. Hypertext adds context. Knowledge grows.
+**Hi there! I’m Martina. A graphic designer and illustrator. I live in Prague.**
 
-Avoid assumptions in docs, posts, tutorials. "Just" assumes too much. Learning buzzwords is tough. Think before suggesting "just."
+My educational journey started at the Business Academy. After that, I pursued my education in Graphic Design at the Higher Professional School of Visual Communication - Scholastica. This path eventually led me to the College of Creative Communication, where I further expanded skills and knowledge. My work has changed a lot throughout my journey. Every school has influenced me in some way. Just like the others. That's why we are each unique. We all have a different path. I believe that unique experiences shape us. Everyone has their own journey. 
+
+Currently, I mainly focus on print design (DTP) and visual identities. Each project is slightly different. It all depends on the specific requirements. Recently, I have been diving deeper into typography, typesetting, and book design. I think, that design should be simple and clear. The right color can add finesse to visual part of design. 
+
+Interestingly, prior to starting at VŠKK, I believed I was more inclined towards web design. However, I realized that my best outputs were in print materials. And it’s also what I enjoy the most. It may be due to my love for books. I love book and book design too. I adore books. I even had the opportunity to work at a bookstore for half of year. I found there my passion for book design. You could say it drew me in.
+
+(Despite studying of Graphic Design) I find myself drawn towards hands-on work such as: drawing, painting, paper-cut illustration, lithography etc. For this reason, I want to obtaining a teaching qualification. I would like to teach art lessons at a Primary Art School.
