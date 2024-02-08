@@ -7,7 +7,6 @@
 - [View (PDF)  <!-- Add helpful hint as to what kind of file or destination is here. --> Presentation](img/portfolio_Volfova_2023_en.pdf) / [behance](link/https://www.behance.net/volfmartinff54)
 - [About](#about)
 - [Featured Projects](#featured-projects)
-- [Notes](#notes)
 
 ## About
 
