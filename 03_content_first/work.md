@@ -16,13 +16,13 @@ I chose these projects because they best describe what I want to be as a graphic
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
-![Write an alternative text description.](img/Liben_1.png)
+![Write an alternative text description.](img/Liben_0.png)
 ![Write an alternative text description.](img/Liben_welcome_webside.png)
 ![Write an alternative text description.](img/Liben_web_1.png)
 ![Write an alternative text description.](img/Liben_web_2.png)
 ![Write an alternative text description.](img/Liben_web_3.png)
 
-![Write an alternative text description.](img/Liben_FB_side.png)
+![Write an alternative text description.](img/Liben_2.png)
 ![Write an alternative text description.](img/Liben_FB.png)
 
 ![Write an alternative text description.](img/Liben_t-hirts.png)
