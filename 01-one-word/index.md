@@ -18,10 +18,12 @@ A while ago, I stopped wanting to be like everyone else. It is beyond my capabil
 
 At present, but, I know that I won’t let people and their opinions on these topics bring me down. They can think whatever they want. It won’t hurt me anymore. Even though I fight my demons every day and nobody sees how difficult life with **“ADHD”** is. I have finally reached a point where I am starting to love myself as I am. Try to understand health or neurological problems. Be compassionate towards those you don’t understand. Keep an open mind about these issues. It could have consequences.
 
-(img/ADHD.jpg) (AI IMAGE, what I created)
 
-(img/ADD.jpg)
-(AI IMAGE, what I created)
+
+![AI IMAGE, what I created](img/ADHD.jpg)
+
+
+![AI IMAGE, what I created](img/ADD.jpg)
 
 ## Process
 
