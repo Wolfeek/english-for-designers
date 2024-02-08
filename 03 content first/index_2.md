@@ -10,4 +10,4 @@
 
 ## Welcome — I’m Martina Volfová
 
-![Write an alternative text description.](img/surname-headshot.jpg)
+![Write an alternative text description.](img/ME.png)
