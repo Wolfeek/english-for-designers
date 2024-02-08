@@ -63,13 +63,10 @@ I chose these projects because they best describe what I want to be as a graphic
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
 ![Write an alternative text description.](img/Sys_biohacking.png)
-![Write an alternative text description.](img/Sys_Kaapa.png)
-![Write an alternative text description.](img/sys_1.png)
-![Write an alternative text description.](img/Sys_program.png)
 ![Write an alternative text description.](img/sys_1.png)
 
-![Write an alternative text description.](img/sys_menu.png)
 ![Write an alternative text description.](img/Sys_posters.png)
+![Write an alternative text description.](img/sys_menu.png)
 ![Write an alternative text description.](img/Sys_chocolate.png)
 
 - I did this projects at internship - at **Systers bio**. This internship was about doing the printing part of their design. One of my co-worker do SoMe design (I am glad for this becouse I dislike creating SoMe and web banners.
