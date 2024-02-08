@@ -35,7 +35,8 @@ I chose these projects because they best describe what I want to be as a graphic
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
-![Write an alternative text description.](img/featured-project-01.png)
+![Write an alternative text description.](img/czech_school_1.png)
+![Write an alternative text description.](img/czech_school_2.png)
 
 - This assignment was given to us as part of the main subject (of graphic design specialization) at **the College of Creative Communication**. It was a real project. The connection was by **the Creative Office** of the college. It was group's work. Originally it should be just lifting of logo with change of visual identity, but more groups did redesign.
 
