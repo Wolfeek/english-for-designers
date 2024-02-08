@@ -16,7 +16,17 @@ I chose these projects because they best describe what I want to be as a graphic
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
-![Write an alternative text description.](img/featured-project-01.png)
+![Write an alternative text description.](img/Liben_loga.png)
+![Write an alternative text description.](img/Liben_welcome_webside.png)
+![Write an alternative text description.](img/Liben_web_1.png)
+![Write an alternative text description.](img/Liben_web_2.png)
+![Write an alternative text description.](img/Liben_web_3.png)
+
+![Write an alternative text description.](img/Liben_FB_side.png)
+![Write an alternative text description.](img/Liben_FB.png)
+
+![Write an alternative text description.](img/Liben_t-hirts.png)
+![Write an alternative text description.](img/Liben_bookmark.png)
 
 - I created this project as my final assignment at the Higher Professional School of Visual Communication - **Scholastica**. It involved creating a visual identity, which included designing a logo along with a logo manual, design of merchandise products, SoMe and a website. Thanks to this project, I earned the title **“Dis.”**
 
@@ -41,6 +51,7 @@ I chose these projects because they best describe what I want to be as a graphic
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
 ![Write an alternative text description.](img/jv_prezentation_0.png)
+![Write an alternative text description.](img/jv_prezentation.png)
 
 - I did this project at internship - at **DURT DESIGN**. It was about creating logo for czech slalomer **Jiří Vašina**.
 
