@@ -21,7 +21,7 @@
 
 ![Write an alternative text description.](img/ME.png)
 
-# My work
+## Work
 ## My Featured Projects
 
 I chose these projects because they best describe what I want to be as a graphic designer.
