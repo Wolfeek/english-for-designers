@@ -14,7 +14,7 @@
 
 1. [Home](01-one-word/)
 2. [About me](02-first-impression/)
-3. [My workt](03_content_first/work/)
+3. [My work](03_content_first/work/)
 
 
 ## Welcome — I’m Martina Volfová
