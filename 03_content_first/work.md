@@ -7,7 +7,7 @@
 - [My work](#work)
 
 
-# My Work
+# My work
 ## My Featured Projects
 
 I chose these projects because they best describe what I want to be as a graphic designer.
