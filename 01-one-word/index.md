@@ -38,6 +38,9 @@ I don’t envy those just entering the field of web development. Besides learnin
 
 So think twice before suggesting someone “just” [insert any task here]. You just might make them feel like an idiot.
 
+(image/ADD)(image/ADHD)
+AI IMAGE, what I created.
+
 ## Process
 
 - [Rough Draft](rough-draft.md) (word dump, sketch)
