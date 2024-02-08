@@ -64,7 +64,10 @@ I chose these projects because they best describe what I want to be as a graphic
 
 ![Write an alternative text description.](img/Sys_biohacking.png)
 ![Write an alternative text description.](img/Sys_Kaapa.png)
+![Write an alternative text description.](img/Sys_1.png)
 ![Write an alternative text description.](img/Sys_program.png)
+
+![Write an alternative text description.](img/menu.png)
 ![Write an alternative text description.](img/Sys_posters.png)
 ![Write an alternative text description.](img/Sys_chocolate.png)
 
@@ -76,7 +79,10 @@ I chose these projects because they best describe what I want to be as a graphic
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
-![Write an alternative text description.](img/featured-project-01.png)
+![Write an alternative text description.](img/cover-design.png)
+![Write an alternative text description.](img/book_inside_1.png)
+![Write an alternative text description.](img/book_inside_2.png)
+![Write an alternative text description.](img/book_inside_3.png)
 
 - This assignment was given to us as part of subject - **TYPOGRAPHY** - at **the College of Creative Communication**. It was a school project. It was one of more projects. It was not group's projects. We should to work with typesetting and creat a system for edition (included cover design).
   
