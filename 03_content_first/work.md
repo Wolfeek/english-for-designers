@@ -55,7 +55,6 @@ I chose these projects because they best describe what I want to be as a graphic
 - This collaboration also led to the design of the website, which was finalized by a web designer. Later on, I also created a presentation for **Jiří Vašina** (and for **Tereza Neumannová** - professional cyclist) to showcase to their sponsors.
 
 ![Write an alternative text description.](img/jv_prezentation_0.png)
-![Write an alternative text description.](img/jv_prezentation.png)
 
 
 ### Featured Project 4 SYSTERS - FLYERS AND OTHER PRINTED DESIGN
@@ -64,10 +63,11 @@ I chose these projects because they best describe what I want to be as a graphic
 
 ![Write an alternative text description.](img/Sys_biohacking.png)
 ![Write an alternative text description.](img/Sys_Kaapa.png)
-![Write an alternative text description.](img/Sys_1.png)
+![Write an alternative text description.](img/sys_1.png)
 ![Write an alternative text description.](img/Sys_program.png)
+![Write an alternative text description.](img/sys_1.png)
 
-![Write an alternative text description.](img/menu.png)
+![Write an alternative text description.](img/sys_menu.png)
 ![Write an alternative text description.](img/Sys_posters.png)
 ![Write an alternative text description.](img/Sys_chocolate.png)
 
@@ -81,6 +81,8 @@ I chose these projects because they best describe what I want to be as a graphic
 
 ![Write an alternative text description.](img/cover-design.png)
 ![Write an alternative text description.](img/book_inside_1.png)
+![Write an alternative text description.](img/book_inside_6.png)
+![Write an alternative text description.](img/book_inside_7.png)
 ![Write an alternative text description.](img/book_inside_2.png)
 ![Write an alternative text description.](img/book_inside_3.png)
 
