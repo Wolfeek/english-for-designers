@@ -1,3 +1,12 @@
+
+<!-- This is a comment, only visible to the author: Add a link to your presentation. -->
+<!-- Presentations do not need to be a PDF, you may link elsewhere, such as Figma, YouTube, etc. -->
+<!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->
+
+- [Home](#home)
+- [About me](#more_about_me)
+- [My work](#work)
+
 ## About
 
 <!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
