@@ -106,5 +106,3 @@ I chose these projects because they best describe what I want to be as a graphic
 - I created two cover design of books in the edition. The thing that is changing is one of the three colors + and the same color is changed in footnotes.
 
 - The main part of this brand is combination blue and beige (sometimes pink), using square brackets, archway, bigger dot (between title and text) and splash or pouring art at backgrounds.
-
-<!Notes-->
